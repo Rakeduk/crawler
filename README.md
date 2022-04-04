@@ -1,6 +1,6 @@
 # Basic crawler 
 
-Class project for _information retrieval_. Show how not accurate BMI indicator is, compared to body fat indicator. 
+Class project for _information retrieval_. Implementing basic FIFO/LIFO policies. 
 
 ## Technologies
 Python 3.8
